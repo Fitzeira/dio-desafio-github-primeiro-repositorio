@@ -1,0 +1,9 @@
+Lógica de programação
+	Significa apenas contextualizar a lógica na programação de computadores, buscando a melhor sequência de ações para solucionar um problema.
+
+Abstração
+	É a habilidade de concentrar nos aspectos essenciais de um contexto qualquer, ignorando características menos importantes ou acidentais.
+
+Algoritmo
+	Uma sequência de passos que resolve um problema
+
