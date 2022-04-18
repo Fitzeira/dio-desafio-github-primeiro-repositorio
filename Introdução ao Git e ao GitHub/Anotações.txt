@@ -2,3 +2,24 @@ Link para o download do Git
 https://git-scm.com/downloads
 
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Comandos 
+git config
+	Para definir o nome de usuário e endereço de e-mail
+	git config --global user.name "NOME"
+	git config --global user.email email@email.com
+
+git init
+git clone [url]
+	Duas formas de obter um projeto Git
+-Usar um projeto ou diretório existente e o importar para o Git.
+-Clonar um repositório Git existente a partir de outro servidor.
+
+git add
+	Para passar a monitorar um novo arquivo
+
+git status
+	Determinar quais arquivos estão em quais estados.
+
+git push origin main
+	Envia todos os arquivos dentro da pasta para a nuvem
